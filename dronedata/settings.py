@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-7scq$++jpud*d%t9z3q^(scdlo3)j1&p=sl!hl!ismg=z-5i6^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['testy-skimmer.onrender.com']
 
 
 # Application definition
